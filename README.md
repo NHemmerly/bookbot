@@ -1,3 +1,5 @@
 # bookbot
 
-BookBot is my first project!
+Created through a guided project on Boot.dev!
+
+Very simple Python project that analyzes character frequency of books in plain text.
